@@ -37,26 +37,5 @@ I am a passionate developer dedicated to building efficient, scalable, and user-
 </div>
 
 ---
-
-### 📫 Let's Connect!
-<div align="left">
-  <a href="www.linkedin.com/in/mariajose-zuloeta-brito">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="marzulbri@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-</div>
-
-<br />
-
-<img align="right" height="120" src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" />
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=majozb&theme=dracula&no-frame=true&column=4" alt="majozb trophies" />
-</p>
-
----
 ### 💬 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
