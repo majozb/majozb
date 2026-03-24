@@ -14,11 +14,11 @@
 ### 🚀 About Me
 I am a passionate developer dedicated to building efficient, scalable, and user-centric solutions. Currently, I focus on the **JavaScript/TypeScript ecosystem**, while constantly expanding my horizons with languages like **Python** and **Ruby** to solve complex architectural challenges.
 
-* 🌍 Based in **[Your City, Country]**
-* 🔭 Currently working on **[Project Name or "Personal Portfolio"]**
+* 🌍 Based in **Spain**
+* 🔭 Currently working on **Personal Porfolio**
 * 🌱 Learning **Software Architecture & Cloud Technologies**
-* 💬 Ask me about **React, Node.js, or Database Management**
-* ⚡ Fun fact: I love [Your hobby, e.g., brewing coffee / gaming / hiking]
+* 💬 Ask me about **Java, Node.js, or Database Management**
+* ⚡ Fun fact: I love gaming and hiking
 
 ---
 
@@ -40,14 +40,11 @@ I am a passionate developer dedicated to building efficient, scalable, and user-
 
 ### 📫 Let's Connect!
 <div align="left">
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="www.linkedin.com/in/mariajose-zuloeta-brito">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="marzulbri@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-  <a href="YOUR_YOUTUBE_URL_HERE">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube" />
   </a>
 </div>
 
